@@ -11,9 +11,11 @@ All the code write in VISUAL STUDIO CODE editor and Install LIVE SERVER to run t
 
 # Demo
 STEP-1: CHOOSE FOLDER
+![image](https://user-images.githubusercontent.com/90023409/170859770-1b1640ac-f669-4fa9-9367-075051233aee.png)
 
 STEP-2: CHOOSE FILES 
 To obtain missing people lists
+
 STEP-3: CHOOSE FILES
 To obtain missing people photos 
 
