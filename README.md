@@ -15,6 +15,7 @@ STEP-1: CHOOSE FOLDER
 
 STEP-2: CHOOSE FILES 
 To obtain missing people lists
+![image](https://user-images.githubusercontent.com/90023409/170859818-fd99a4a5-70d4-4be8-a5c7-4df38a6b32f8.png)
 
 STEP-3: CHOOSE FILES
 To obtain missing people photos 
