@@ -6,6 +6,10 @@ previously living in it and how many were missing. And also find a person which 
 state of the HTML, CSS and Vanilla JavaScript with the use of face-API(to recognize person’s face) using sift algorithm to recognize faces also, chrome extension web
 server for server.
 
+# Instruction
+All the code write in VISUAL STUDIO CODE editor and Install LIVE SERVER to run the code. Lets's run the app by the live server.
+
+# Demo
 
 # Download face.api.js 
 using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
