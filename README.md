@@ -19,6 +19,9 @@ To obtain missing people lists
 
 STEP-3: CHOOSE FILES
 To obtain missing people photos 
+![image](https://user-images.githubusercontent.com/90023409/170859871-7992a44d-816a-4014-8172-aff7ca5a72de.png)
+
+STEP-4: The output of this will look as shown below.
 
 # Download face.api.js 
 using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
