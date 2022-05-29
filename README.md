@@ -5,3 +5,7 @@ a city struck by any disaster this app will help the officials to take list of h
 previously living in it and how many were missing. And also find a person which goes "missing" as well as its name state, with high accuracy as possible using the latest
 state of the HTML, CSS and Vanilla JavaScript with the use of face-API(to recognize person’s face) using sift algorithm to recognize faces also, chrome extension web
 server for server.
+
+
+# Download face.api.js 
+using the github link
