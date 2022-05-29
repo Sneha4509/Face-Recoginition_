@@ -15,3 +15,6 @@ using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/
 
 # Download missingfaceinformation.js 
 using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/missingfaceinformation.js
+
+# Download models
+using the github link https://github.com/Sneha4509/Face-Recoginition_/tree/main/models
