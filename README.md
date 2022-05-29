@@ -14,14 +14,11 @@ STEP-1: CHOOSE FOLDER
 ![image](https://user-images.githubusercontent.com/90023409/170859770-1b1640ac-f669-4fa9-9367-075051233aee.png)
 
 STEP-2: CHOOSE FILES 
-To obtain missing people lists
-![image](https://user-images.githubusercontent.com/90023409/170859818-fd99a4a5-70d4-4be8-a5c7-4df38a6b32f8.png)
-
-STEP-3: CHOOSE FILES
-To obtain missing people photos 
+To obtain missing people lists and photos
+![image](https://user-images.githubusercontent.com/90023409/170859818-fd99a4a5-70d4-4be8-a5c7-4df38a6b32f8.png) 
 ![image](https://user-images.githubusercontent.com/90023409/170860126-d5cfaf4a-0355-4b5f-b439-3de322585d2c.png)
 
-STEP-4: The output of this will look as shown below.
+STEP-3: The output of this will look as shown below.
 ![image](https://user-images.githubusercontent.com/90023409/170860015-60a95cc0-1c6e-4c3e-be87-8097e1b1576c.png)
 
 # Download face.api.js 
