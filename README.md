@@ -8,4 +8,10 @@ server for server.
 
 
 # Download face.api.js 
-using the github link
+using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
+
+# Download face.api.js 
+using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
+
+# Download face.api.js 
+using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
