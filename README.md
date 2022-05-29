@@ -10,6 +10,12 @@ server for server.
 All the code write in VISUAL STUDIO CODE editor and Install LIVE SERVER to run the code. Lets's run the app by the live server.
 
 # Demo
+STEP-1: CHOOSE FOLDER
+
+STEP-2: CHOOSE FILES 
+To obtain missing people lists
+STEP-3: CHOOSE FILES
+To obtain missing people photos 
 
 # Download face.api.js 
 using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
