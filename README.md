@@ -18,3 +18,6 @@ using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/
 
 # Download models
 using the github link https://github.com/Sneha4509/Face-Recoginition_/tree/main/models
+
+
+![image](https://user-images.githubusercontent.com/90023409/170858633-c5a47908-5aab-4632-9a3a-9922dc54c37f.png)
