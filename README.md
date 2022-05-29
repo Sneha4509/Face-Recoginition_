@@ -22,6 +22,7 @@ To obtain missing people photos
 ![image](https://user-images.githubusercontent.com/90023409/170859871-7992a44d-816a-4014-8172-aff7ca5a72de.png)
 
 STEP-4: The output of this will look as shown below.
+![image](https://user-images.githubusercontent.com/90023409/170860015-60a95cc0-1c6e-4c3e-be87-8097e1b1576c.png)
 
 # Download face.api.js 
 using the github link https://github.com/Sneha4509/Face-Recoginition_/blob/main/face-api.min.js
