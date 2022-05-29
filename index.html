@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Missing Face Identification</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style3.css">
+
+	<script defer src="face-api.min.js"></script>
+	  <script defer src="missingfaceinformation.js"></script>
+	  <script defer src="missingfaceidentity.js"></script>
+
+  	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
+</head>
+<body>
+	<header>
+
+		<a href="#" class="logo"> <span>MicroSoft</span> Engage </a>
+	
+		<nav class="navbar">
+			<a href="#home">home</a>
+			<a href="#about">about</a>
+			<a href="#project">project</a>
+            <a href="#face recognition">face recognition</a>
+		</nav>
+	
+	</header>
+	
+	<!-- header section ends -->
+	
+	<!-- home section starts -->
+	
+	<section class="home" id="home">
+	
+		<div class="content">
+			<h3> MICROSOFT ENGAGE'22 <span> FINAL PROJECT </span> </h3>
+			<p class="text"> Intern Engage is a program for giving golden opportunity to engineering students across India. It is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.</p>
+			<h4><ul>BY SNEHA PRIYA</ul>
+		<ul>NIT PATNA - Computer Science and Engineering</ul></h4>
+		</div>
+		<div class="image">
+			<img src="images/MSE-1.png" alt="mse'22">
+		</div>
+	
+	</section>
+	
+	<!-- home section ends -->
+	
+	<!-- about section starts  -->
+	
+	<section class="about" id="about">
+	
+	<h1 class="heading"> Engage <span> Challenges </span> </h1>
+	
+	<div class="row">
+	
+	
+		<div class="content_section">
+			<h6> There are total 3 Challenges:- </h6>
+		   <P><ul><li><h2>Face Recoginition</h2></li>
+			   <li><h2>Data Analysis</h2></li>
+			   <li><h2>Algorithm</h2></li></ul></P>
+		</div>
+	
+	</div>
+	
+	</section>
+	<!-- about section ends  -->
+	
+	<!-- project section starts -->
+	<section class = "project_section" id="project">
+		<h1 class="heading"> <span> my </span> project </h1>
+		<div class = "project_content">
+			<ul><li><h2>FACE RECOGINIION</h2>
+				Develop a browser-based application or a native mobile application to demonstrate application of Face Recognition technology.
+	</li><br>
+	 <div class="PROPIC">
+			<img src="images/face-id.png" alt="mseF'22">
+		</div>
+	</ul>
+	</div>
+	</section>
+	
+	<!-- project section ends -->
+	<!-- face recognition section starts -->
+	<section class="face recognition" id="face recognition">
+	<div id="covering">
+	</div>
+	<div id="loadingprocess"><h4>loading</h4>
+		  <div class="lds-css ng-scope"><div style="width:100%;height:100%" class="lds-double-ring"><div></div><div></div><div><div></div></div><div><div></div></div></div>
+		  </div>
+	</div>
+	<div >
+		<div class="title">MISSING PEOPLE INFORMATION</div>
+					<div class="display">
+			<div class='folder'>
+				<div class="div1"><h4>CHOOSE FOLDER</h4>
+					<img id = "op " src= "gif\folder.gif"></div>
+				<input type="file" id="filepicker" name="fileList" webkitdirectory multiple />
+				<button class="btn"><label for="filepicker" >Find folder</label></button>
+			</div>
+			<div class='image'>
+				<div class="div2">
+					<img id="ost" src="images/upload.png" alt="image insert" />
+				</div>
+				<input type="file" id="imageUpload" onchange=""/>
+				<button class='btn'><label for="imageUpload" >Find file</label></button>
+				
+			</div>
+			<div id="missingfaces">
+				<h3>Missing People List</h3>
+				<ul id="List"></ul>
+</div>
+		</div>
+	</div>
+	<div>
+		<style>
+			canvas{
+				position: absolute;
+				top: 0;
+				left:0;
+			}
+		</style>
+	<input type="file" id="image_upload" >
+	<button class='btn-1'><label for="image_upload" ><b>Upload Missing People images</b></label></button>
+</div>
+</section>
+<!-- face recognition section ends -->
+</body>
+</html>
