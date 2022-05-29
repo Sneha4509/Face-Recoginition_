@@ -19,7 +19,7 @@ To obtain missing people lists
 
 STEP-3: CHOOSE FILES
 To obtain missing people photos 
-![image](https://user-images.githubusercontent.com/90023409/170859871-7992a44d-816a-4014-8172-aff7ca5a72de.png)
+![image](https://user-images.githubusercontent.com/90023409/170860126-d5cfaf4a-0355-4b5f-b439-3de322585d2c.png)
 
 STEP-4: The output of this will look as shown below.
 ![image](https://user-images.githubusercontent.com/90023409/170860015-60a95cc0-1c6e-4c3e-be87-8097e1b1576c.png)
